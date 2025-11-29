@@ -1,0 +1,13 @@
+baseURL = "https://frijal.github.io/yvci"
+languageCode = "en-us"
+title = "My Awesome Site"
+theme = "ananke"
+
+# Untuk GitHub Pages
+enableGitInfo = true
+buildFuture = true
+buildDrafts = false
+
+[params]
+  description = "My site built with Hugo on GitHub Pages"
+  author = "Your Name"
